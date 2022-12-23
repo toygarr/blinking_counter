@@ -1,13 +1,13 @@
 # Embedded Systems - Blink Counter System
 
 ## Description
-```
+
 An average person blinks 10-12 times per minute. Therefore, with the system we have designed, we can get meaningful results by using the "minute" as a unit, by which we can measure the amount of interest of the audience.
 
 The system includes 3 LEDs and 1 OLED display for output display. Blue LED represents below-average blink, green LED represents average blink, and red LED represents above-average blink in 1 minute.
 
 The instantaneous blink amount is shown on the OLED screen and the instantaneous seconds are shown below.
-```
+
 
 ## System Desing (Fritzing)
 
